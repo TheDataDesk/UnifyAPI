@@ -1,0 +1,11 @@
+README.md
+setup.py
+APIUnifier.egg-info/PKG-INFO
+APIUnifier.egg-info/SOURCES.txt
+APIUnifier.egg-info/dependency_links.txt
+APIUnifier.egg-info/requires.txt
+APIUnifier.egg-info/top_level.txt
+integrationapi/__init__.py
+integrationapi/geolocation.py
+integrationapi/payment.py
+integrationapi/social_media.py
