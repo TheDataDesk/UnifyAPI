@@ -1,4 +1,5 @@
-#UnifyAPI 
+# UnifyAPI - A Python Package that simplifies integration with multiple APIs through a unified, easy-to-use interface. 
+
 
 UnifyAPI is a Python package that simplifies the integration of multiple APIs, including social media, payment gateways, and geolocation services. With this package, you can seamlessly connect to various APIs and streamline your application's functionality.
 
